@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "taskmanager-b55c5"
+  },
+  "targets": {
+    "taskmanager-b55c5": {
+      "hosting": {
+        "taskManager": [
+          "taskmanager-b55c5"
+        ]
+      }
+    }
+  }
+}
